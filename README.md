@@ -1,3 +1,3 @@
 # 📕 Introdução à Programação com Python
 
-Python Exercises
+Python book solved exercises
